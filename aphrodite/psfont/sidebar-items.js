@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["ERR_INVALID_MAGIC","FONT1","PSF_MAGIC"],"fn":["parse_pc_screen_font","parse_raw_pc_screen_font"],"struct":["Glyph","PCScreenFont","RawPCScreenFont"],"type":["RawGlyph"]};

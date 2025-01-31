@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["MemoryType"],"struct":["BootInfo"],"trait":["MemoryMap","MemoryMapping","_MemoryMap"]};

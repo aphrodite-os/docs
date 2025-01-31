@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["disable_interrupts","interrupts_enabled","load_idt","pop_irq","restore_irq"]};

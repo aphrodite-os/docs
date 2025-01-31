@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["i16_as_u8_slice","u32_as_u8_slice","u64_as_u8_slice","u8_as_u8_slice","usize_as_u8_slice"],"mod":["_entry","arch","boot","display","multiboot2","output","psfont"],"struct":["Error"]};

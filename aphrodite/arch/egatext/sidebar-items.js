@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["ERR_INVALID_X","ERR_INVALID_Y"],"struct":["FramebufferInfo"]};

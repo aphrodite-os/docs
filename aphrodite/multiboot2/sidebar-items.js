@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ColorInfo"],"struct":["FramebufferInfo","MemoryMap","MemorySection","Module","Multiboot2BootInfo","PaletteColorDescriptor","RawMemoryMap","RootTag","Tag"]};

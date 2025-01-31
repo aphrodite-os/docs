@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+if [[ $# < 1 ]]; then
+    echo "Error: expected path to kernel dir (if checking out from git, this will be (git dir)/kernel)"
+    exit 1
+fi
+
+cargo doc \
+    --no-deps --lib --manifest-path $1/Cargo.toml \
+    --target $1/i686-unknown-none.json --release \
+    -Zbuild-std --target-dir target
+
+cp -rf target/i686-unknown-none/doc/* .
